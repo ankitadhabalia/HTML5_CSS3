@@ -1,0 +1,86 @@
+.logo-image { margin-top: 10px; margin-bottom: 5px}
+ 
+.logo-text{ font-size: 14px; font-weight: bold; margin-top: 40px; padding: 2px }
+
+.green-underline{ background-color: #4CAF50; height: 2px;} 
+
+hr{ margin-bottom: 4px; margin-top: -8px}
+
+.phone-icon-edit{ font-size: 18px; float: right; padding: 5px; margin-top: 3px}
+
+.sms-icon-edit{ font-size: 18px; float: right; padding: 5px; margin-top: 3px}
+
+#navbar{ margin-top: 50px}
+
+.button1-header{ background-color:#4CAF50; border:none; color:white; padding:8px 6px; text-align:center; text-decoration:none; display:inline-block;
+ font-size:12px; cursor: pointer; margin-top: 8px; margin: 5px}
+
+.grad1 { background: linear-gradient(#1E9658, #73B440, #79A836); }
+
+.button2-header{ background-color:#000000; border:none; color:white; padding:8px 6px; text-align:center; text-decoration:none; display:inline-block;
+ font-size:12px; cursor: pointer; margin-top: 8px}
+
+.carousel { height: 630px; margin-bottom: 30px; }
+
+.background-on-banner1{ background-color: #92C83F; }
+
+.background-on-banner2{ background-color: #008854; }
+  
+.Acclaimed-Building-Consultancy-Text { text-align:center; font-size: 20px}
+
+.book-inspection img { height: 200; width: 200px; margin-left: 140px}
+
+.book-inspection-text {  margin-left: 140px}
+
+.vendor-reports img { height: 200; width: 200px; margin-left: 100px}
+
+.vendor-reports-text{margin-left: 100px;  margin-top: 35px }
+
+.agents img { height: 200px; width: 200px; margin-right: 140px}
+
+.agents-text{margin-left: 50px; }
+
+.background-grey{ background-color: #F2F2F2;  }
+
+.latest-reports{ text-align: center; background-color: #F2F2F2;}
+
+.view-more-button { background-color: #92C83F; width: 100px; height: 40px; margin-left: 460px; color:white; text-align: center; margin-top: 20px }
+
+.image-heading{ background-color: #333333; height: 50px; width: 200px; color: white; text-align:center; padding: 20px; }
+
+.image-girl { margin-left: 70px }
+
+.buy-green-text{ color: #399749; font-size:30px; }
+
+.buy-inspection-report-button{ background-color: #399749; width: 250px; height: 80px; margin-left: 260px; 
+font-size:18px; color:white; text-align: center; margin-top: 20px }
+
+.price1{ font-size:80px; }
+
+.sub-price1{ float:left; }
+
+.price2{ font-size:80px; }
+
+.sub-price2{ float:left; }
+
+.grad2 { background: linear-gradient(#1E9658, #73B440, #79A836); height: 240px }
+
+.saying{color: #FFFFFF; text-align: center; font-size: 30px}
+
+.para{ text-align: center;color: #FFFFFF; font-size: 20px }
+
+.mary-decoration{ text-align: center; color: #FFFFFF; font-size: 30px  }
+
+.foot{ height: 240px; background-color: #000000;}
+
+.pls-contact-us{ color: #73B440; font-size: 25px; text-align: center; }
+
+.ending1{ color: #FFFFFF; text-align: center; font-size: 20px;}
+
+
+.ending2{ color: #FFFFFF; text-align: center; font-size: 20px;}
+
+
+.ending3{ color: #FFFFFF; text-align: center;font-size: 20px;}
+
+.ending4{color: #FFFFFF; text-align: center;font-size: 20px;}
